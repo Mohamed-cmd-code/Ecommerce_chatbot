@@ -3,7 +3,7 @@ from langchain_openai import OpenAIEmbeddings
 from dotenv import load_dotenv
 import os
 import pandas as pd
-from ecommbot.data_converter import dataconveter
+from ecommbot.data_convertor import dataconveter
 
 load_dotenv()
 
